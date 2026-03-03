@@ -1,0 +1,18 @@
+{
+  "searchParams": {
+    "q": "",
+    "creator": null,
+    "filter": 0,
+    "sort": "lastUpdate",
+    "order": "DESC",
+    "start": 9999,
+    "count": 200,
+    "game": 2,
+    "modid": "0"
+  },
+  "modList": [],
+  "totalCount": null,
+  "isLoggedOn": false,
+  "errorCode": -1,
+  "errorMessage": ""
+}
